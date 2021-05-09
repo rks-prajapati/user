@@ -1,0 +1,14 @@
+{
+  "employeeId": "1111",
+  "title": "Mr",
+  "firstName": "user_one",
+  "lastName": "last_name_one",
+  "gender": "male",
+  "address": {
+    "id": 1,
+    "street": "street1",
+    "city": "city_one",
+    "state": "state1",
+    "postcode": "1111"
+  }
+}
